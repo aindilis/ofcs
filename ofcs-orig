@@ -1,0 +1,19 @@
+#!/usr/bin/perl -w
+
+use OFCS;
+
+use UniLang::Agent::Agent;
+use UniLang::Util::Message;
+
+$UNIVERSAL::agent = UniLang::Agent::Agent->new
+  (Name => "OFCS",
+   ReceiveHandler => \&Receive);
+$UNIVERSAL::ofcs = OFCS->new();
+
+sub Receive {
+  my %args = @_;
+  $UNIVERSAL::ofcs->ProcessMessage
+    (Message => $args{Message});
+}
+
+$UNIVERSAL::ofcs->Execute();

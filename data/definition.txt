@@ -1,0 +1,1089 @@
+Open Fair Credit Standard (OFCS)
+
+   1.
+
+      Characteristics
+
+         1.
+
+            Non-liquid ???
+
+                +
+
+                  OFCS is not a currency system, in that there are no
+                  anonymous units of symbolic value that can be
+                  exchanged. Debits and credits are applied directly
+                  on accounts of individuals or commodities
+                  themselves. Credits and debits cannot be transferred
+                  from one account to another. [ed.Teddie: currently
+                  the definition of "liquid" is a little debated; is
+                  there a better way to describe what it means?]
+
+         1.
+
+            Cashless
+
+                +
+
+                  There cannot be cash in this system because every
+                  credit or debit is a record of a unique event and
+                  thus cannot be exchanged for substituted for
+                  another. Cash as such may be replaced by
+                  documentation, or receipts when a physical
+                  representation is needed, but are not in themselves
+                  to be considered of any value or negotiable.
+
+         1.
+
+            Pseudonymous
+
+                +
+
+                  An OFCS account can be opened under any
+                  name. Biometrics and other physical keys will ensure
+                  identity security. All records can be audited,
+                  though personal information will be kept secret and
+                  can actually be omitted. Individuals can create as
+                  many accounts as they wish in the system.
+
+         1.
+
+            Transparent
+
+                +
+
+                  All debits and credits created or negated can be
+                  audited, even credits and debits that have been
+                  negated from being spent or fulfilled, respectively.
+
+         1.
+
+            Decentralized
+
+                +
+
+                  A redundant, encrypted and distributed file system
+                  ensures that the OFCS can survive the loss of
+                  several nodes and is invulnerable to malicious
+                  attack.
+
+         1.
+
+            Secure
+
+                +
+
+                  Each credit or debit has a unique record of evidence
+                  such as video built into it as a matter of
+                  verification. Additionally, a third party must
+                  verify the credit or debit creation. All data is
+                  heavily encrypted and keyed to identifiers such as
+                  time or geolocation.
+
+         1.
+
+            Flexible
+
+                +
+
+                  The underlying OFCS can be utilized for a variety of
+                  purposes, so that multiple independent exchange
+                  systems can be created. Any number of social and
+                  communication tools can be used to facilitate the
+                  function and particular rule-set of each system.
+
+   1.
+
+      Application
+         1.
+
+            Formation of a Credit Syndicate
+
+                +
+
+                  Basis of credit – Each syndicate should at its heart
+                have a common idea for what should be the basis for
+                credit: labor-time, energy, power, karma, trust, or
+                widgets, etc. Any basis for credit must be absolute
+                and normative, because the system does not allow for
+                interest, depreciation, or other such trappings of
+                subjective currency.  +
+
+                  Syndicate membership and self-government. The
+                Syndicate must decide how it will govern itself,
+                whether that be by direct democracy, elected
+                delegates, designated individuals, or even by total
+                automation.  +
+
+                  Purpose – The purpose and principles of the
+                  syndicate must be clear, otherwise there will be no
+                  guidelines when it comes to creating the rule-set.
+
+         1.
+
+            Customized OFCS Rule-set
+
+                +
+
+                  Each syndicate will have choices to make in
+                implementing a rule-set. Though the underlying system
+                is inflexible, there are certain behaviors and matters
+                of policy that will be hard-wired but revisable. Some
+                of these will be ad-hoc rules, such as crediting
+                certain professions or activities at a different rate
+                than others.  +
+
+                  Testing – the rule-set must be tested in simulation
+                by either role-playing or using gaming simulations.  +
+
+                  Revisions – must be made to the rule-set that
+                  satisfy both the syndicate's principles and
+                  utilitarian concerns. The procedure for revisions
+                  shall be determined by each syndicate.
+
+         1.
+
+            Normal Operations
+
+                +
+
+                  Autonomous transactions – The system applies the
+                custom rule-set in all transactions such that all
+                transactions are quick and conveniently executed.  +
+
+                  Problem management – all disputes or errors will be
+                reported to the appropriate regulating syndicate and
+                dealt with in their particular ways.  +
+
+                  Syndicate evolution – the syndicate is entrusted to
+                  continually be improving its own rule-set and
+                  relations with other credit syndicates, as well as
+                  providing services to its constituents.
+
+         1.
+
+            Dissolution or Merger of Syndicates
+
+                +
+
+                  When a credit syndicate becomes untenable, unstable,
+                or inactive due to neglect, it may be necessary to
+                dissolve the syndicate. Dissolution itself is not
+                complex, but a process for distribution and
+                transference of all indebted goods must be laid out
+                beforehand to prevent disputes.  +
+
+                  If two syndicates wish to merge their economies,
+                  there are several options: they can either keep
+                  their separate credit unit systems, create a new
+                  system from scratch, or transfer all of one credit
+                  system into the other.
+
+   1.
+
+      Regulation
+         1.
+
+            Account Holder Balances
+
+                +
+
+                  Automated checks of individual accounts can occur
+                continuously, adjusting for variable rates in the
+                market. For example, GHG sequestering may vary in
+                labor costs, which will dynamically affect the balance
+                of an individual who has GHG emissions tallied in
+                their debits.  +
+
+                  Rules can be set for deficit spending. For example,
+   it could be that syndics may only accrue twi number, and records
+   are viewable by any member of the syndicate, but no personally
+   identifiable details are available.  3.
+
+      Transparent – all users, including all personally identifiable
+      details are available to all other members of the syndicate.
+
+
+Credit Complexity
+
+   1.
+
+      Simplified – all value is quantified in a single unit
+   system. This precludes dynamic pricing.  2.
+
+      Multiple – all debits and credits include multiple values, such
+      as carbon emissions, labor time, and energy.
+
+
+Macroeconomics
+
+   1.
+
+      Balanced – for every debit, a credit must be generated, and vice
+   versa. This precludes any “free” services.  2.
+
+      Dynamic – This allows labor to be credited without attaching a
+      debit to any object or person. Debited objects may also remain
+      uncompensated-for, and people can accumulate debit without a
+      corresponding credit being generated.
+
+********************************************************************************
+
+I'm bothered that OCFS has yet to be defined, and, I fear, designed.
+In what way is it the next thing after a complementary currency
+system? How does it differ from LETS? Why is not 'currency' And what
+mechanism is it that satisfies all the criteria in the descriptions.
+I want to know how OFCS is going to work, because until I see that
+then it is merely a set of requirements, not a proposed economic
+system.
+In a recent talk in New Zealand, Thomas Greco outlined the questions
+we need to ask of a currency, and I repeat them here to help you
+express your answer:
+
+Who is the issuer?
+How is it issued into circulation?
+What is the basis of issue?
+How much has been issued?
+What are the terms of the contract offered by the issuer?
+What does it promise?
+What are the limits on issue?
+What is the duration on the contract?
+What is the form of redenmption?
+Are there any fees association with redemption?
+		
+
+********************************************************************************
+
+First the questions:
+
+    Who is the issuer?
+
+
+Anyone who wants to create their own credit syndicate is the issuer.
+ 
+
+    How is it issued into circulation?
+
+
+It is not circulated. Credit is assigned as participants do the work, depending on how the particular credit syndicate works it out.
+ 
+
+    What is the basis of issue?
+
+
+However the credit syndicate defines it.
+ 
+
+    How much has been issued?
+
+
+This is always known - credit is created as work is done, so the amount  "issued" keeps increasing.
+ 
+
+    What are the terms of the contract offered by the issuer?
+
+
+This is defined by each credit syndicate.
+ 
+
+    What does it promise?
+
+
+The credits represent work done that negates the "debits" accrued when taking ownership of an item or commodity.
+ 
+
+    What are the limits on issue?
+
+
+Again, defined by the particular credit syndicate.
+ 
+
+    What is the duration on the contract?
+
+
+Forever.
+
+    What is the form of redemption?
+
+
+Credits are not redeemed, they are forever associated with the individual and thus cannot be transferred.
+ 
+
+    Are there any fees association with redemption?
+
+
+Not applicable.
+
+And to respond to your questions:
+
+>In what way is it the next thing after a complementary currency
+>system? How does it differ from LETS? Why is not 'currency' And what
+>mechanism is it that satisfies all the criteria in the descriptions.
+>I want to know how OFCS is going to work, because until I see that
+>then it is merely a set of requirements, not a proposed economic
+>system.
+
+The important thing to remember is that the S in OFCS stands for "Standard." In other words, it's like a basis for creating a LETS (what we call "credit syndicate") that can be easily negotiated with other LETS around the world (in other words, a Global Exchange Trading System). The BIG BIG difference is that LETS are also currency systems whereas OFCS precludes currencies. OFCS is like the VHS format: anyone can make a player that reads the tapes, as long as they follow certain format guidelines.
+ 
+Imagine that for every hour of work that you did, a 1-hour bill was printed with your picture on it, and inscribed with a description of the work you did, the physical objects that were involved, the date, location, and a whole host of information. Now imagine that everyone had such personalized bills, and that a cashier at the store only accepted bills that had a portrait of the customer using it. What happens? The bills would not circulate, and thus, it becomes non-liquid, and no longer a currency.
+
+Non-liquidity is one aspect of OFCS. A multitude of credit syndicates is the other aspect of OFCS: but since all these syndicates have at their core one standard, it enables them to merge or interact on a global scale without compromising their particular values.
+
+I hope this clears up some of the confusion. If you have suggestions on how to better revise the existing documents to make these concepts more clear, please post them.
+
+-Teddie
+Reply
+		
+Forward
+		
+Invite Teddie Goldenberg to chat
+
+********************************************************************************
+
+
+Thanks Teddie, these are good answers and tell me much more than anything on the groups. If we can purse this a bit more, I'll compile it all into what I think is a proper first explanation.
+
+I understand what you mean about OCFS being the next thing, and not currencies, but I don't know how they will work yet.
+
+2009/5/13 Teddie Goldenberg <albamuth@gmail.com>
+
+
+        Who is the issuer?
+
+
+    Anyone who wants to create their own credit syndicate is the issuer.
+
+Can we talk about LETS schemes instead of credit syndicates?
+Does that mean there will be one currency per syndicate?
+
+
+     
+
+        How is it issued into circulation?
+
+
+    It is not circulated. Credit is assigned as participants do the work, depending on how the particular credit syndicate works it out.
+
+Assigning credit is the same as circulation. It's just not money which is circulating, it is credit, which is actually a form of currency. LETS is a mutual credit system. If I owe you 10 credits, you can spend that and then I'll owe someone else. 
+
+
+        What is the form of redemption?
+
+
+    Credits are not redeemed, they are forever associated with the individual and thus cannot be transferred.
+
+ 
+There has to be some form of redemption, surely. In LETS currency is created when a user goes into negative and redeemed as they earn. On the gold standard, the money could be redeemed for gold (when the US wasn't messing around with it).
+
+
+    And to respond to your questions:
+    >In what way is it the next thing after a complementary currency
+    >system? How does it differ from LETS? Why is not 'currency' And what
+    >mechanism is it that satisfies all the criteria in the descriptions.
+    >I want to know how OFCS is going to work, because until I see that
+    >then it is merely a set of requirements, not a proposed economic
+    >system.
+
+    The important thing to remember is that the S in OFCS stands for "Standard." In other words, it's like a basis for creating a LETS (what we call "credit syndicate") that can be easily negotiated with other LETS around the world (in other words, a Global Exchange Trading System). The BIG BIG difference is that LETS are also currency systems whereas OFCS precludes currencies. OFCS is like the VHS format: anyone can make a player that reads the tapes, as long as they follow certain format guidelines.
+
+Careful there is a piece of commercial software called GETS
+
+ 
+
+    Imagine that for every hour of work that you did, a 1-hour bill was printed with your picture on it, and inscribed with a description of the work you did, the physical objects that were involved, the date, location, and a whole host of information. Now imagine that everyone had such personalized bills, and that a cashier at the store only accepted bills that had a portrait of the customer using it. What happens? The bills would not circulate, and thus, it becomes non-liquid, and no longer a currency.
+
+
+Ok but you didn't finish the story by saying how this is useful. Just like if everyone started their own currency, you could only accept currency from people you trusted. So how does non-liquidity help anyone?
+ 
+
+    I hope this clears up some of the confusion. If you have suggestions on how to better revise the existing documents to make these concepts more clear, please post them.
+
+I hope you're finding my questions worthwhile. Could you also point me towards something of the history of this idea? To what extent has it been tried before?
+Reply
+		
+Forward
+		
+Invite Matthew Slater to chat
+		
+ 
+Reply
+ 
+|
+Teddie Goldenberg
+ to ofcs
+	
+show details May 15
+	
+
+
+On Wed, May 13, 2009 at 11:33 PM, Matthew Slater <matslats@gmail.com> wrote:
+
+            Who is the issuer?
+
+
+        Anyone who wants to create their own credit syndicate is the issuer.
+
+    Can we talk about LETS schemes instead of credit syndicates?
+    Does that mean there will be one currency per syndicate?
+
+
+No - the idea of a "standard" is that every syndicate uses the same normative units - time (in hours), energy (in Joules), and byproducts (pollutants, in kg). The reason for having multiple syndicates is twofold:
+
+1 - people may want to set different financial rules to fine-tune the overall credit syndicate's economy
+2 - people have different ideas about what constitutes "work"
+ 
+
+            How is it issued into circulation?
+
+
+        It is not circulated. Credit is assigned as participants do the work, depending on how the particular credit syndicate works it out.
+
+    Assigning credit is the same as circulation. It's just not money which is circulating, it is credit, which is actually a form of currency. LETS is a mutual credit system. If I owe you 10 credits, you can spend that and then I'll owe someone else. 
+
+
+I have to insist that it cannot be circulated. Nobody can "owe" someone credits - I cannot spend the credits that you've earned. My credits are my credits and yours are yours. They cannot be transferred, owed, borrowed, spent, or given. This is hard-coded into the software and the system in general.
+ 
+
+
+            What is the form of redemption?
+
+
+        Credits are not redeemed, they are forever associated with the individual and thus cannot be transferred.
+
+     
+    There has to be some form of redemption, surely. In LETS currency is created when a user goes into negative and redeemed as they earn. On the gold standard, the money could be redeemed for gold (when the US wasn't messing around with it).
+
+
+The credit represents things you've done, not physical artifacts. Since the things you've done exist in the past, and we don't have time travel, the credit is immutable. It stays with you forever and ever.
+ 
+
+        Imagine that for every hour of work that you did, a 1-hour bill was printed with your picture on it, and inscribed with a description of the work you did, the physical objects that were involved, the date, location, and a whole host of information. Now imagine that everyone had such personalized bills, and that a cashier at the store only accepted bills that had a portrait of the customer using it. What happens? The bills would not circulate, and thus, it becomes non-liquid, and no longer a currency.
+
+
+    Ok but you didn't finish the story by saying how this is useful. Just like if everyone started their own currency, you could only accept currency from people you trusted. So how does non-liquidity help anyone?
+
+
+Just as local currencies are worthless outside of the town it's being used in, the credits have no value outside of the credit syndicate, preventing capital flight. Non-liquidity is just an accident of the system, really. The main idea is that people simply work, earn credit, and the goods that they take ownership of have negative credits (debits), and the OFCS backbone tracks all of this. The credit syndicate they're part of sets the rules on how much they debit they can own, what work is acceptable, and other details. There's no need for a currency.
+
+I'll turn the question around: how does liquidity help anyone?
+ 
+
+     
+
+        I hope this clears up some of the confusion. If you have suggestions on how to better revise the existing documents to make these concepts more clear, please post them.
+
+    I hope you're finding my questions worthwhile. Could you also point me towards something of the history of this idea? To what extent has it been tried before?
+
+
+It really hasn't been tried before, to my knowledge. This group is about developing the software, documentation and marketing materials, as well as creating simulations to test the theory. We'll also be trying real-life tests of the system as well.
+Reply
+		
+Forward
+		
+Invite Teddie Goldenberg to chat
+		
+ 
+Reply
+ 
+|
+Matthew Slater
+ to ofcs
+	
+show details May 15
+	
+Slowly you're telling me more, but I'm still having trouble piecing it all together.
+
+Can you write a story about what happens to people's credit when they work and buy stuff. It's too soon to talk about software until these basics are really hammered out, IMHO. Here is what I understand so far:
+
+Syndicate A defines a soft unit of currency called loaves, where 1 loaf is worth a loaf of wholemeal bread.
+Jack does some gardening for the community and the syndicate credits his name with 5 credit-loaves.
+Jill bakes 20 food-loaves of bread 
+On the way home jack picks up a real-loaf and his loaf-credit goes down 1
+At the end of the day 5 of jill's loaves go unsold.
+Syndicate B defines a harder unit of currency called leafs of gold.
+Jack wants a new porch on his house...
+
+Currencies are valued according to universal things which means that Jack's gardening time IS somehow comparable to Jill's baking time. This idea is essential to human cooperation. So when you talk about non-liquidity I think you mean something different.
+Question. In this example is Jill paid for her loaves created or for loaves sold? If the former, then there are issues about who says what work is worth if no-one benefits from it. If the latter then the credit is effectively transfered at the moment when Jack purchases the loaf.
+Liquidity is when Jill is 'paid' by Jack for the 'sale' of the loaf, and jack's balance goes down by one and jill's balance goes up by one. It's very useful because then you a real amount of value which just moves around reflecting what people value.
+
+Matthew
+
+2009/5/15 Teddie Goldenberg <albamuth@gmail.com>
+- Show quoted text -
+
+
+
+    On Wed, May 13, 2009 at 11:33 PM, Matthew Slater <matslats@gmail.com> wrote:
+
+                Who is the issuer?
+
+
+            Anyone who wants to create their own credit syndicate is the issuer.
+
+        Can we talk about LETS schemes instead of credit syndicates?
+        Does that mean there will be one currency per syndicate?
+
+
+    No - the idea of a "standard" is that every syndicate uses the same normative units - time (in hours), energy (in Joules), and byproducts (pollutants, in kg). The reason for having multiple syndicates is twofold:
+
+    1 - people may want to set different financial rules to fine-tune the overall credit syndicate's economy
+    2 - people have different ideas about what constitutes "work"
+     
+
+                How is it issued into circulation?
+
+
+            It is not circulated. Credit is assigned as participants do the work, depending on how the particular credit syndicate works it out.
+
+        Assigning credit is the same as circulation. It's just not money which is circulating, it is credit, which is actually a form of currency. LETS is a mutual credit system. If I owe you 10 credits, you can spend that and then I'll owe someone else. 
+
+
+    I have to insist that it cannot be circulated. Nobody can "owe" someone credits - I cannot spend the credits that you've earned. My credits are my credits and yours are yours. They cannot be transferred, owed, borrowed, spent, or given. This is hard-coded into the software and the system in general.
+     
+
+
+                What is the form of redemption?
+
+
+            Credits are not redeemed, they are forever associated with the individual and thus cannot be transferred.
+
+         
+        There has to be some form of redemption, surely. In LETS currency is created when a user goes into negative and redeemed as they earn. On the gold standard, the money could be redeemed for gold (when the US wasn't messing around with it).
+
+
+    The credit represents things you've done, not physical artifacts. Since the things you've done exist in the past, and we don't have time travel, the credit is immutable. It stays with you forever and ever.
+     
+
+            Imagine that for every hour of work that you did, a 1-hour bill was printed with your picture on it, and inscribed with a description of the work you did, the physical objects that were involved, the date, location, and a whole host of information. Now imagine that everyone had such personalized bills, and that a cashier at the store only accepted bills that had a portrait of the customer using it. What happens? The bills would not circulate, and thus, it becomes non-liquid, and no longer a currency.
+
+
+        Ok but you didn't finish the story by saying how this is useful. Just like if everyone started their own currency, you could only accept currency from people you trusted. So how does non-liquidity help anyone?
+
+
+    Just as local currencies are worthless outside of the town it's being used in, the credits have no value outside of the credit syndicate, preventing capital flight. Non-liquidity is just an accident of the system, really. The main idea is that people simply work, earn credit, and the goods that they take ownership of have negative credits (debits), and the OFCS backbone tracks all of this. The credit syndicate they're part of sets the rules on how much they debit they can own, what work is acceptable, and other details. There's no need for a currency.
+
+    I'll turn the question around: how does liquidity help anyone?
+     
+
+         
+
+            I hope this clears up some of the confusion. If you have suggestions on how to better revise the existing documents to make these concepts more clear, please post them.
+
+        I hope you're finding my questions worthwhile. Could you also point me towards something of the history of this idea? To what extent has it been tried before?
+
+
+    It really hasn't been tried before, to my knowledge. This group is about developing the software, documentation and marketing materials, as well as creating simulations to test the theory. We'll also be trying real-life tests of the system as well.
+
+
+Reply
+		
+Forward
+		
+Invite Matthew Slater to chat
+		
+ 
+Reply
+ 
+|
+Teddie Goldenberg
+ to ofcs
+	
+show details May 15
+	
+To use your scenario,
+
+1. Jack, belonging to Syndicate A, works 20 hours in a week farming. He is credited for 20 hours of time by Syndicate A. The 20 tons of grain produced that week is valued at 1 hour debit / ton, and has a certain about of calories (Joules), plus has sequestered a certain amount of carbon in its production. (let's pretend it was all harvested, ground, and transported by Jack, by hand, just to simplify things).
+
+2. Jill works in a bakery that is part of Syndicate A. Jill is the sole proprietor of the bakery, meaning that she owns all the capital goods. She receives 1 ton of grain from Jack, taking possession of it, which makes her overall balance go down 1 hour of work-time, but she also gets a positive benefit (in her balance sheet) from the sequestered carbon of the grain. Jack, having relieved himself of 1 ton of grain, regains an hour on his own balance sheet.
+
+* note - the ownership of the grain is what is transferred, and the associated debit-values are transferred along with it. The ownership is tracked by Syndicate A.
+
+3. Jill works at night, and in 10 hours makes 1000 loaves of bread from 1 ton of wheat (I know, unrealistic numbers, but it makes the math simple). Each loaf has a debit-cost of .01+.001 in hours of time, (.01 for Jill's labor, and .001 for materials cost, assuming water just falls from the sky)  0.011 hours is the debit-cost of each loaf of bread on her shelves.
+
+4. A customer in Syndicate A comes in and purchases 100 loaves of bread. Jill's credit balance regains 1.1 hours. If all 1000 loaves are purchased, then for that 10 hours of work, her net gain is 10 hours of work-time-credit.
+
+* note - the Jill / customer interaction is simple: The customer says they want 100 loaves of bread, and Jill uses her smart-phone to transfer ownership of the bread to the customer, who validates the transfer with their own smart-phone. Or they can use a computer with Internet access there in the store. It's that simple.
+
+Now let's make it more complicated.
+
+In step 2, let's say Jill co-owns the bakery with Julie, James, and Justin, meaning that they all have a 25% share of the capital goods. When Jack transfers the ton whole-wheat flour to them, each of their balances goes down by 0.25 hours. Say Julie works the cafe in the daytime, and Jill bakes at night, and James and Justin both work part time at the cafe and bakery, respectively.
+
+Jill works 10 hours on Monday night/Tuesday morning and makes 1000 loaves of bread. This is co-owned by all of them as part of their corporation. Jill gets credited for 10 hours of work, and all 4 accounts are debited for 25% of the cost of baking that bread, or 2.5 hours. Julie opens the cafe on Tuesday morning, and other than selling coffee, muffins, and other things, sells 100 loaves of bread (probably to a resturaunt). For selling that bread, the bakery/cafe co-op members each regain 0.011*100*0.25 = 0.275 hours. Julie also gains 8 hours for her shift, and then James gains 8 hours for his shift later that night, but doesn't sell any bread.
+
+The net change from Mon to Tues:
+Jill : +10 Hours, -0.25 Hours, -2.5 Hours, +0.275 Hours = +7.525 Hours
+Julie: +8 Hours, -0.25 Hours, -2.5 Hours, +0.275 Hours = +5.525 Hours
+James: +8 Hours, -0.25 Hours, -2.5 Hours, +0.275 Hours = +5.525 Hours
+Justin: -0.25 Hours, -2.5 Hours, +0.275 Hours = -0.475 Hours
+
+Things to note from this example:
+* Jill gained the most because she worked the most.
+* Julie and James gained the same even though Julie was the one present when the bread was sold.
+* Justin lost almost a half-hour of work-time credit because he didn't work those days, and not all the bread has been sold (900 loaves remain in their possession).
+*A loaf of bread is cheaper (as a matter of labor-time) than in the existing economy (even if the price was 10 times greater, at 0.11 Hours/loaf - the equivalent for someone making $10/hour, that's only $1.10 for locally-produced, organic bread (I've seen it at $6/loaf at farmer's markets!))
+
+As a share holder of this bakery, Justin might go online and look at all the transactions that occured in association with this bakery on Monday/Tuesday. He'd see that Jill was credited for 10 hours of baking from 10pm Monday night to 8am Tuesday morning, and that 1000 loaves of bread were produced in that 10-hour block. That 10-hour credit was verified by Julie, also using a smartphone app. He could see who bought those 100 loaves, if the customer had any public information associated with their Syndicate A account number (otherwise, he'd just see a pseudononymous account number).
+
+Justin would then send an email to Jill that she shouldn't bake all the bread on one night, because there's no way they can sell it all before it gets stale. Jill might write back that she was planning on taking the rest of the week off because her mother is in the hospital, and then Julie would interject an opinion... but that's all part of being in a business with people.
+
+-Teddie
+Reply
+		
+Forward
+		
+Invite Teddie Goldenberg to chat
+		
+ 
+Reply
+ 
+|
+Matthew Slater
+ to ofcs
+	
+show details May 17
+	
+Good thanks
+Gimme some time.
+I think you should stop saying there's no liquidity.
+The interesting parts of this idea seems to me to be the use of multiple currencies in one transaction, and the idea that, from its inception, there would be a standard way to value these things.
+Matthew
+
+2009/5/16 Teddie Goldenberg <albamuth@gmail.com>
+- Show quoted text -
+
+    To use your scenario,
+
+    1. Jack, belonging to Syndicate A, works 20 hours in a week farming. He is credited for 20 hours of time by Syndicate A. The 20 tons of grain produced that week is valued at 1 hour debit / ton, and has a certain about of calories (Joules), plus has sequestered a certain amount of carbon in its production. (let's pretend it was all harvested, ground, and transported by Jack, by hand, just to simplify things).
+
+    2. Jill works in a bakery that is part of Syndicate A. Jill is the sole proprietor of the bakery, meaning that she owns all the capital goods. She receives 1 ton of grain from Jack, taking possession of it, which makes her overall balance go down 1 hour of work-time, but she also gets a positive benefit (in her balance sheet) from the sequestered carbon of the grain. Jack, having relieved himself of 1 ton of grain, regains an hour on his own balance sheet.
+
+    * note - the ownership of the grain is what is transferred, and the associated debit-values are transferred along with it. The ownership is tracked by Syndicate A.
+
+    3. Jill works at night, and in 10 hours makes 1000 loaves of bread from 1 ton of wheat (I know, unrealistic numbers, but it makes the math simple). Each loaf has a debit-cost of .01+.001 in hours of time, (.01 for Jill's labor, and .001 for materials cost, assuming water just falls from the sky)  0.011 hours is the debit-cost of each loaf of bread on her shelves.
+
+    4. A customer in Syndicate A comes in and purchases 100 loaves of bread. Jill's credit balance regains 1.1 hours. If all 1000 loaves are purchased, then for that 10 hours of work, her net gain is 10 hours of work-time-credit.
+
+    * note - the Jill / customer interaction is simple: The customer says they want 100 loaves of bread, and Jill uses her smart-phone to transfer ownership of the bread to the customer, who validates the transfer with their own smart-phone. Or they can use a computer with Internet access there in the store. It's that simple.
+
+    Now let's make it more complicated.
+
+    In step 2, let's say Jill co-owns the bakery with Julie, James, and Justin, meaning that they all have a 25% share of the capital goods. When Jack transfers the ton whole-wheat flour to them, each of their balances goes down by 0.25 hours. Say Julie works the cafe in the daytime, and Jill bakes at night, and James and Justin both work part time at the cafe and bakery, respectively.
+
+    Jill works 10 hours on Monday night/Tuesday morning and makes 1000 loaves of bread. This is co-owned by all of them as part of their corporation. Jill gets credited for 10 hours of work, and all 4 accounts are debited for 25% of the cost of baking that bread, or 2.5 hours. Julie opens the cafe on Tuesday morning, and other than selling coffee, muffins, and other things, sells 100 loaves of bread (probably to a resturaunt). For selling that bread, the bakery/cafe co-op members each regain 0.011*100*0.25 = 0.275 hours. Julie also gains 8 hours for her shift, and then James gains 8 hours for his shift later that night, but doesn't sell any bread.
+
+    The net change from Mon to Tues:
+    Jill : +10 Hours, -0.25 Hours, -2.5 Hours, +0.275 Hours = +7.525 Hours
+    Julie: +8 Hours, -0.25 Hours, -2.5 Hours, +0.275 Hours = +5.525 Hours
+    James: +8 Hours, -0.25 Hours, -2.5 Hours, +0.275 Hours = +5.525 Hours
+    Justin: -0.25 Hours, -2.5 Hours, +0.275 Hours = -0.475 Hours
+
+    Things to note from this example:
+    * Jill gained the most because she worked the most.
+    * Julie and James gained the same even though Julie was the one present when the bread was sold.
+    * Justin lost almost a half-hour of work-time credit because he didn't work those days, and not all the bread has been sold (900 loaves remain in their possession).
+    *A loaf of bread is cheaper (as a matter of labor-time) than in the existing economy (even if the price was 10 times greater, at 0.11 Hours/loaf - the equivalent for someone making $10/hour, that's only $1.10 for locally-produced, organic bread (I've seen it at $6/loaf at farmer's markets!))
+
+    As a share holder of this bakery, Justin might go online and look at all the transactions that occured in association with this bakery on Monday/Tuesday. He'd see that Jill was credited for 10 hours of baking from 10pm Monday night to 8am Tuesday morning, and that 1000 loaves of bread were produced in that 10-hour block. That 10-hour credit was verified by Julie, also using a smartphone app. He could see who bought those 100 loaves, if the customer had any public information associated with their Syndicate A account number (otherwise, he'd just see a pseudononymous account number).
+
+    Justin would then send an email to Jill that she shouldn't bake all the bread on one night, because there's no way they can sell it all before it gets stale. Jill might write back that she was planning on taking the rest of the week off because her mother is in the hospital, and then Julie would interject an opinion... but that's all part of being in a business with people.
+
+    -Teddie
+
+
+Reply
+		
+Forward
+		
+Invite Matthew Slater to chat
+		
+ 
+Reply
+ 
+|
+Matthew Slater
+ to ofcs
+	
+show details May 19
+	
+Ok Teddie,
+
+Because last time I visited the site there wasn't an explanation I actually understood, this is my attempt to frame it for you in a way which expresses the most important concepts. You can do with this text as you want, and then I suggest you post it's descendant on the google group.
+I'm still not sure exactly what the relationship is between the syndicates, but you can fill that in at the end.
+Also note I can't find ANYWHERE what OCFS stands for.
+
+OCFS is a proposal for an advanced type of local money system. It emphasises these two things:
+1. The multidimensional nature of transactions
+2. Global standards of value
+
+It is advanced because unlike lets or SCRIP currencies, it has been designed to rely on the processing power now at our fingertips. Each transaction typically involves several components and relies on recent technology in order not to be overwhelming. OCFS is not a currency, it is a way of transacting and a framework which can embrace many types of currency.
+
+When we exchange currency for work done or for goods, we are forced to value everything on one scale. This is a blunt instrument for measuring value, which is after all, a personal matter. We now have the technology to price our goods and services in more just ways. and to better reflect and value the different costs involved in making them. What if, instead of the government fixing a business-friendly carbon-emission price, the carbon-emissions were passed on directly to the consumer, who was granted an allowance from the government. Then instead of the consumer making an 'informed' choice from carbon footprint labels, the consumer would be weighing up the money cost and the carbon cost of his prospective purchase. And budgeting both. A headache maybe, but a more transparent way to work. The next currency would be fresh water, a dangerously diminishing resource. Of course fresh water could be traded for money, but that price would be set more by supply and demand, less by political considerations.
+These examples show how multidimensional transactions give the buyer more information and more responsibility, and how transacting in a range of currencies all at once allows for other things to be valued apart from bank-owned money.
+
+This is not going to happen overnight. That's why the standard is important. OCFS will start in separate communities looking to experiment with money and to create their own currencies. But these currencies will be much more useful if other trading communities value them. So OCFS will be there to help the communities create useful currencies. For example one community wants to trade in loaves of wholemeal bread. The OCFS might point out to them that there is already a community in Germany trading in half kilos of pumpernickel, and a currency in morrocco of their 200g round loaves. While their might be some debate about the comparative value by weight of whole meal and pumpernickel bread, which some also consider an  acquired taste, they might agree that if a whole meal loaf were nominally 400g, it could be exchanged for exactly two Moroccan loaves. A breadbasket of currencies!
+
+It's important to note that at this stage, the OCFS is indifferent to currency mechanisms. How the currencies are created, redeemed, whether they have interest or demurrage is not our concern. Whether the information resides in a digital 'wallet' on or a web server matter nought. In principle, currencies need only be digital in order to participate.
+
+Teddy I look forward to seeing what you make of this.
+Reply
+		
+Forward
+		
+Invite Matthew Slater to chat
+		
+ 
+Reply
+ 
+|
+Teddie Goldenberg
+ to ofcs
+	
+show details May 27
+	
+Matt,
+
+You've written a great introduction to OFCS. I've had some time to think about what you wrote -- the idea of using OFCS for many currencies is intriguing. I've adopted some of your language for the welcome message. The ability of OFCS to track actual currencies is a debate we need to have, of course. On one hand OFCS should be able to track any sort of property, even if that good is pieces of paper with subjective values attached to them, but on the other other hand, it just becomes a kind of public accounting / banking system, and thus doesn't achieve the kinds of results we'd like. Or am I just bringing too much of my own political ideals into what should be just a software project?
+
+_Teddie
+- Show quoted text -
+
+
+On Tue, May 19, 2009 at 6:36 PM, Matthew Slater <matslats@gmail.com> wrote:
+
+    Ok Teddie,
+
+    Because last time I visited the site there wasn't an explanation I actually understood, this is my attempt to frame it for you in a way which expresses the most important concepts. You can do with this text as you want, and then I suggest you post it's descendant on the google group.
+    I'm still not sure exactly what the relationship is between the syndicates, but you can fill that in at the end.
+    Also note I can't find ANYWHERE what OCFS stands for.
+
+    OCFS is a proposal for an advanced type of local money system. It emphasises these two things:
+    1. The multidimensional nature of transactions
+    2. Global standards of value
+
+    It is advanced because unlike lets or SCRIP currencies, it has been designed to rely on the processing power now at our fingertips. Each transaction typically involves several components and relies on recent technology in order not to be overwhelming. OCFS is not a currency, it is a way of transacting and a framework which can embrace many types of currency.
+
+    When we exchange currency for work done or for goods, we are forced to value everything on one scale. This is a blunt instrument for measuring value, which is after all, a personal matter. We now have the technology to price our goods and services in more just ways. and to better reflect and value the different costs involved in making them. What if, instead of the government fixing a business-friendly carbon-emission price, the carbon-emissions were passed on directly to the consumer, who was granted an allowance from the government. Then instead of the consumer making an 'informed' choice from carbon footprint labels, the consumer would be weighing up the money cost and the carbon cost of his prospective purchase. And budgeting both. A headache maybe, but a more transparent way to work. The next currency would be fresh water, a dangerously diminishing resource. Of course fresh water could be traded for money, but that price would be set more by supply and demand, less by political considerations.
+    These examples show how multidimensional transactions give the buyer more information and more responsibility, and how transacting in a range of currencies all at once allows for other things to be valued apart from bank-owned money.
+
+    This is not going to happen overnight. That's why the standard is important. OCFS will start in separate communities looking to experiment with money and to create their own currencies. But these currencies will be much more useful if other trading communities value them. So OCFS will be there to help the communities create useful currencies. For example one community wants to trade in loaves of wholemeal bread. The OCFS might point out to them that there is already a community in Germany trading in half kilos of pumpernickel, and a currency in morrocco of their 200g round loaves. While their might be some debate about the comparative value by weight of whole meal and pumpernickel bread, which some also consider an  acquired taste, they might agree that if a whole meal loaf were nominally 400g, it could be exchanged for exactly two Moroccan loaves. A breadbasket of currencies!
+
+    It's important to note that at this stage, the OCFS is indifferent to currency mechanisms. How the currencies are created, redeemed, whether they have interest or demurrage is not our concern. Whether the information resides in a digital 'wallet' on or a web server matter nought. In principle, currencies need only be digital in order to participate.
+
+    Teddy I look forward to seeing what you make of this.
+
+
+Reply
+		
+Forward
+		
+Invite Teddie Goldenberg to chat
+		
+ 
+Reply
+ 
+|
+Matthew Slater
+ to ofcs
+	
+show details May 27
+	
+Thanks
+I only wrote what I understood you were saying, with perhaps my ideas as examples. I'm not at all sure how workable the idea is politically, or what other ideas it might embrace. There are lots of similar ideas about, and we need to see discussion and a whole range of things being adopted.
+
+As described, OCFS is much more than a software project. Both the software and the evangelism / politics require a lot of resources. For some reason this is a very slow moving field, and full of dogmatic people, (perhaps including me) and you need a lot of charisma to get them on board. On the other hand there should be (I don't know if the numbers bear it out, a growing interest in the subject and new people coming along all the time.)
+
+From what I've read so far, you're not in a strong position to start a new thing, despite your charisma. You might get more satisfaction and more impact, by lending your energy and skills to an existing project. There are plenty and I think you should be able to find something deserving of your effort.
+
+The real problem in this field is that there is far more talk and proposals than skills and resources to make things happen. There isn't a dearth of ideas! Work is being done particularly in Germany on Cyclos in making local currencies tradable, and software is playing a large part in that. The idea of several currencies in one transaction is favoured by John Waters in Wales. Michael Linton is working on the idea that anyone can create a currency. Stephen deMeulenaire has just about given up on trying to coordinate everybody. The South Africans have a software system, CES, which groups can just sign up to and then intertrade. You should know about all of these before starting something new!
+
+Hope that's encouraging,
+
+Matthew
+
+2009/5/27 Teddie Goldenberg <albamuth@gmail.com>
+- Show quoted text -
+
+    Matt,
+
+    You've written a great introduction to OFCS. I've had some time to think about what you wrote -- the idea of using OFCS for many currencies is intriguing. I've adopted some of your language for the welcome message. The ability of OFCS to track actual currencies is a debate we need to have, of course. On one hand OFCS should be able to track any sort of property, even if that good is pieces of paper with subjective values attached to them, but on the other other hand, it just becomes a kind of public accounting / banking system, and thus doesn't achieve the kinds of results we'd like. Or am I just bringing too much of my own political ideals into what should be just a software project?
+
+    _Teddie
+
+
+    On Tue, May 19, 2009 at 6:36 PM, Matthew Slater <matslats@gmail.com> wrote:
+
+        Ok Teddie,
+
+        Because last time I visited the site there wasn't an explanation I actually understood, this is my attempt to frame it for you in a way which expresses the most important concepts. You can do with this text as you want, and then I suggest you post it's descendant on the google group.
+        I'm still not sure exactly what the relationship is between the syndicates, but you can fill that in at the end.
+        Also note I can't find ANYWHERE what OCFS stands for.
+
+        OCFS is a proposal for an advanced type of local money system. It emphasises these two things:
+        1. The multidimensional nature of transactions
+        2. Global standards of value
+
+        It is advanced because unlike lets or SCRIP currencies, it has been designed to rely on the processing power now at our fingertips. Each transaction typically involves several components and relies on recent technology in order not to be overwhelming. OCFS is not a currency, it is a way of transacting and a framework which can embrace many types of currency.
+
+        When we exchange currency for work done or for goods, we are forced to value everything on one scale. This is a blunt instrument for measuring value, which is after all, a personal matter. We now have the technology to price our goods and services in more just ways. and to better reflect and value the different costs involved in making them. What if, instead of the government fixing a business-friendly carbon-emission price, the carbon-emissions were passed on directly to the consumer, who was granted an allowance from the government. Then instead of the consumer making an 'informed' choice from carbon footprint labels, the consumer would be weighing up the money cost and the carbon cost of his prospective purchase. And budgeting both. A headache maybe, but a more transparent way to work. The next currency would be fresh water, a dangerously diminishing resource. Of course fresh water could be traded for money, but that price would be set more by supply and demand, less by political considerations.
+        These examples show how multidimensional transactions give the buyer more information and more responsibility, and how transacting in a range of currencies all at once allows for other things to be valued apart from bank-owned money.
+
+        This is not going to happen overnight. That's why the standard is important. OCFS will start in separate communities looking to experiment with money and to create their own currencies. But these currencies will be much more useful if other trading communities value them. So OCFS will be there to help the communities create useful currencies. For example one community wants to trade in loaves of wholemeal bread. The OCFS might point out to them that there is already a community in Germany trading in half kilos of pumpernickel, and a currency in morrocco of their 200g round loaves. While their might be some debate about the comparative value by weight of whole meal and pumpernickel bread, which some also consider an  acquired taste, they might agree that if a whole meal loaf were nominally 400g, it could be exchanged for exactly two Moroccan loaves. A breadbasket of currencies!
+
+        It's important to note that at this stage, the OCFS is indifferent to currency mechanisms. How the currencies are created, redeemed, whether they have interest or demurrage is not our concern. Whether the information resides in a digital 'wallet' on or a web server matter nought. In principle, currencies need only be digital in order to participate.
+
+        Teddy I look forward to seeing what you make of this.
+
+
+
+Reply
+		
+Forward
+		
+Invite Matthew Slater to chat
+		
+ 
+Reply
+ 
+|
+Teddie Goldenberg
+ to ofcs
+	
+show details May 29
+	
+
+Cyclos is rather interesting, from what I've read. The next step is to download and try to implement Cyclos in compliance with OFCS. Regardless of whether or not it can be done, the point of OFCS is to establish a Standard, like HTML, but more like aa philosophical / economic standard. Kind of like a bottom-up Bretton-Woods.
+
+    On May 27, 2009 3:37 PM, "Matthew Slater" <matslats@gmail.com> wrote:
+
+    Thanks
+    I only wrote what I understood you were saying, with perhaps my ideas as examples. I'm not at all sure how workable the idea is politically, or what other ideas it might embrace. There are lots of similar ideas about, and we need to see discussion and a whole range of things being adopted.
+
+    As described, OCFS is much more than a software project. Both the software and the evangelism / politics require a lot of resources. For some reason this is a very slow moving field, and full of dogmatic people, (perhaps including me) and you need a lot of charisma to get them on board. On the other hand there should be (I don't know if the numbers bear it out, a growing interest in the subject and new people coming along all the time.)
+
+    From what I've read so far, you're not in a strong position to start a new thing, despite your charisma. You might get more satisfaction and more impact, by lending your energy and skills to an existing project. There are plenty and I think you should be able to find something deserving of your effort.
+
+    The real problem in this field is that there is far more talk and proposals than skills and resources to make things happen. There isn't a dearth of ideas! Work is being done particularly in Germany on Cyclos in making local currencies tradable, and software is playing a large part in that. The idea of several currencies in one transaction is favoured by John Waters in Wales. Michael Linton is working on the idea that anyone can create a currency. Stephen deMeulenaire has just about given up on trying to coordinate everybody. The South Africans have a software system, CES, which groups can just sign up to and then intertrade. You should know about all of these before starting something new!
+
+    Hope that's encouraging,
+
+    Matthew
+
+    2009/5/27 Teddie Goldenberg <albamuth@gmail.com>
+
+    > > Matt, > > You've written a great introduction to OFCS. I've had some time to think about what y...
+
+
+********************************************************************************
+
+
+[OFCS] Land, Rent, and Property
+
+Teddie Goldenberg
+ to OFCS
+	
+This is a burning question for me, and I'm not sure I can answer it.
+
+Because an OFCS system allows only a direct relationship to an object
+(such as a house, or the furniture in it), there's absolutely no way
+for someone to rent or lease things out - either you own it or you
+don't. Basically, you can't be a landlord with OFCS. That's the bottom
+line.
+
+I'm not concerned about this, because landlords are something that
+should be obsoleted anyway. What I'm more concerned with is the
+transition from contemporary currency systems to OFCS systems. Let me
+list some scenarios to brainstorm with:
+
+* There's a plot of empty, wild land. Someone wants to take ownership
+of it. Can land be owned? What are they allowed to do on it? What if
+they pollute it?
+
+* A house in the suburbs. The house is built within an OFCS system,
+and ownership is transferred (let's just say "sold") to a family that
+uses the same credit system. What about the land the house is sitting
+on?
+
+* A "Transition Town" adopts an OFCS system - every business and
+individual uses it. How are the big landowners in town dealt with
+(assume they're friendly)?
+		
+********************************************************************************
+
+It also occurred to me that this is a way to save the newspaper
+industry - people who "subscribe" to the newspaper would actually be
+syndics, and have some say in that newspaper's decision-making process
+(however it would be set up). The debt incurred on their accounts pays
+for the capital expenditures of the newspapers.
+ 
+It opens up the possibility that newspapers could do away entirely
+with their print versions (or do local, on-demand printing), give away
+their stories for free, and still have all their financing needed to
+do in-depth reporting, minus the advertisements.  This is all
+contingent on the calculation of overall productivity vs. consumption
+within the credit system, of course. Anyone have some ideas on how we
+might evaluate that?
+ 
+-Teddie
+
+********************************************************************************
+
+This sounds a lot like Patrick Anderson's idea, only perhaps less
+stupid ;-)
+
+I'll forward it to him
+
+********************************************************************************
+
+Teddie Goldenberg
+ to ofcs
+	
+show details Apr 28
+	
+This is an interesting project: Meta-Currency, which is the next logical step for uniting time-based currency systems. OFCS actually leapfrogs this tech by anticipating the obsolescence of currenct altogether, because in essence, OFCS treats credit (that is, "value") as merely information. OFCS imposes a quality of information that transactional systems cannot achieve, since they allow transfer of credit/debt (changing the "owner" property of credit/debit). The "owner" property of credit/debit in OFCS is intrinsically part of that debit/credit, and thus cannot be changed.
+ 
+OFCS tracks ownership (or "responsible propietorship") of objects/commodities, and given that goods inevitably circulate, they become the "currency" of an OFCS-based economy.
+ 
+Ed, would you be inclined to contact some of the people in this forwarded email thread about OFCS? Do you think they would be interested in participating in OFCS's development? FYI, anyone in this google group invite more members.
+ 
+-Teddie
+ 
+---------- Forwarded message ----------
+From: Edward Miller <embraceunity@gmail.com>
+Date: Tue, Apr 28, 2009 at 10:13 AM
+Subject: Fwd: design for meta-currency platform
+To: Teddie Goldenberg <teddie.goldenberg@gmail.com>
+
+
+Here is some more about that meta-currency platform from Bernard Lietaer
+
+
+---------- Forwarded message ----------
+From: Michel Bauwens <michelsub2004@gmail.com>
+Date: Tue, Apr 28, 2009 at 1:36 AM
+Subject: Fwd:design for meta-currency platform
+To: Edward Miller <embraceunity@gmail.com>
+
+
+
+
+---------- Forwarded message ----------
+From: Dante-Gabryell Monson <dante.monson@gmail.com>
+Date: Thu, Apr 23, 2009 at 9:20 PM
+Subject: Fwd: [Fwd: Re: Next step accomplished]
+To: Michel Bauwens <michelsub2004@gmail.com>
+
+
+Hi Michel
+
+I noticed in one of your last replies on p2pr :
+
+http://p2pfoundation.net/Metacurrency_Project
+
+and thought you might find these pdf in attachment of interest
+
+ps :
+
+Alex Rollin seems to be in touch with
+
+http://www.artbrock.com/
+
+<artbrock@geekgene.com>,
+
+
+********************************************************************************
+
+
+I've been brainstorming the ramifications of being able to, as a community, approve of crediting certain activities. Here's some things I've thought of:
+
+* Credit students for going to school (if they maintain passing grades). Not just college students, but the most young students (kindergarten and up). The principle would be that a child is doing a service for all of society by achieving in school. This negates the "value-added time" problem that Ithaca hours has (where a dentist is paid 3 hours per hour, for example).
+
+* Credit mothers for being pregnant, giving birth, and nursing. That is, if they're not drinking and smoking the whole time. I dunno, there could be a lot of pitfalls in this one. Then again, this would be like a built-in maternity leave.
+
+* Credit people for recycling. It would mean measuring the amount of recycled materials, but doing so basically reverses some of the debt from their consumed products.
+
+* Credit people for working on open-source software projects like this one. If a community uses the software, isn't that a tacit approval of the programmers' labor? I guess we can't make it retroactive, however. I mean, imagine what people will think if we create a credit system where all of the developers (us) are already rich?
+
+* Credit people for restoring land to its natural state. If you're replacing a mountaintop removed by mining, what you're doing is mitigating the social debt that mining company has incurred.
+
+Those are some thoughts I have. I worry that credit may be too "easy" with OFCS, but like Ed pointed out, it's not for us to design a system with equilibrium; different OFCS implementations will have to be tried before we achieve anything even near equilibrium.
+
+
+********************************************************************************
+
+I haven't had time to review all the links.  They are very cool
+though.  I just wanted to chime in about what I am interested in doing
+with relation to OFCS and programming and the like.
+
+I wanted to address the issue of "paying rent with OFCS".  While that
+would be nice, it is not one of my initial goals because I see the
+existing monetary system as being enforced by the military (forgive my
+paranoid fantasies), and obviously a military solution is not in
+order.  So, as I see it, I want to establish a somewhat cancerous
+(cancer is so effective) growth that exists on the system, that short-
+circuits capitalism at a local level and allows people, especially
+programmers, to collaborate without the need for dependence on the
+dollar or other currencies.
+
+I will certainly admit to being a novice in economics, I think I
+actually failed it but that was because the required class was too
+pedantic for me to waste my time going.  I do have a good perhaps
+graduate level background in mathematics, (although game theory and
+statistics and chaos theory are the three subjects I never broached).
+I actually don't understand the economic details of OFCS.  But I
+understand the afore mentioned need for a virtualized economy.  So I'm
+approaching this project from a requirements engineering methodology.
+For every concern, we need to clearly define the solution and then
+debate it.  But we also need to analyze which features we want and so
+forth.  As I understand it, OFCS is a modular system so it will
+benefits from exactly this kind of open source requirements
+engineering.  Perhaps it needs to be fair and envy-free, impossible to
+game, etc.  That is where an axiomatic method (which also avoids the
+ambiguity in language that has us talking past each other) specifying
+the exact mathematical properties of the system will be very useful.
+Perhaps we should even embed proofs of various properties in the
+requirements matrix.
+
+As for software engineering, todays software landscape is so varied
+that all we can hope to do is write a good basic system and hope that
+others will extend it.  My development is Perl, sorry that's what I
+know, am pretty handy with it.
+
+I remember OFCS contains very accurate "normative" credit, that is, it
+record the actual costs in scientific terms.  To me, having a non-
+scalar or (non real valued) system of representing work fits very
+naturally with the FRDCSA's work on value systems and priority
+systems.  We have AI planning systems that need a way to represent
+which world states are preferable to others, and an entire complex
+calculus relating world state/position with actions, goals, etc.  This
+is what POSI is working towards.  (http://posithon.org).  I see
+tremendous application for the tools I have already developed to form
+the basis of this system.  These tools are very alpha.  We will have a
+hard time attracting programmers, this is just my experience (maybe if
+we have good marketing, or POSI succeeds, that won't be the case).
+The tools are heavily based on semantic web technologies.
+
+We should invite Paul Grignon (film maker of Money as Debt) to the
+newsgroup, as he can help with the marketing if he is interested.
+
+pgrignon@island.net
+
+Okay I apologize for the ranting form of this letter, but it is just a
+very direct representation of the issues I am thinking about.
+
+There was one other important point which I cannot remember. Oh!
+Check out we.riseup.net  they will have lots of people that would work
+on this kind of stuff.
+
+To see the various AI systems mentioned, that will may be involved (if
+we are to do the valuation system/normative credit), check here:
+
+http://frdcsa.org/~andrewdo/writings/semweb.odp
+
+http://frdcsa.org/~andrewdo/writings/flourish-2009.odp
+
+As far as this system allowing capitalist exploitation, let's hope
+not!  Hopefully in this system there are no predators and no prey.
+
+Teddie mentioned writing a simulation.  That would be just a nother
+module which used the API in creative ways.  Developi
