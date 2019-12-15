@@ -1,0 +1,211 @@
+meta-currency project
+A smart-edge network
+with Intrinsic Data Integrity
+
+Part I
+A Smart-edge Network
+
+Before the web
+• Information users and information
+
+consumers mostly trapped in the same
+silos, with limited interconnection
+
+Before the web
+AOL client
+
+Prodigy client
+
+AOL Content
+
+Prodigy
+Content
+
+AOL
+
+e-mail
+
+Prodigy
+
+the web
+• Creates a network by separation of
+
+functions: It splits client and content.
+
+• Resource information consumers are not
+
+confined to a silo of information producers.
+
+• Radical growth in client and content
+makers
+
+the web
+Resource
+Consumer
+
+Firefox
+
+iPhone
+
+Web
+Crawler
+
+Can access all providers and
+choose appropriate tool
+
+Web
+
+Resource
+Producer
+Can potentially serve all
+consumers on the network
+
+twitter
+
+CNN
+
+Amazon
+
+the web
+Pushes Intelligence to the edges, which:
+
+• Drives innovation in clients
+• Drives innovation in content
+• Drives emergence: simple brochures site,
+
+news, blogs, twitter, semantic web, google,
+wikipedia, etc..
+
+• Distributes power into many hands
+
+cc systems today
+• One-stop shopping
+• Usually a single web-site with integrated
+marketplace
+
+• Some some integration with other input
+modalities (sms, phone)
+
+cc systems today
+Time Banks
+Website
+
+Cyclos
+Website
+
+Time Banks
+Database
+
+Cyclos
+Database
+
+Time Banks
+
+Cyclos
+
+Cyclos2
+Website
+
+data
+sharing
+
+Cyclos2
+Database
+
+Cyclos
+
+meta-currency platform
+Currency
+User
+
+Web-site
+
+Cell Phone
+
+Transaction
+Analyzer
+
+Can access accounts in all
+currencies, and choose
+appropriate tool
+
+meta-currency
+network
+
+Currency
+Host
+Can serve users regardless of
+tool
+
+LETs
+
+Saberes
+
+B2B
+
+meta-currency network
+Pushes Intelligence to the edges, which:
+
+• Drives innovation in clients
+• Drives innovation in currency design
+• Drives emergence... yet to be seen
+• Distributes power into many hands
+
+Technical Infrastructure
+The Web:
+•
+•
+
+a simple interaction pattern (protocol):
+Hypertext Transfer Protocol (HTTP)
+a set of standard formats for specifying resources:
+HTML, XML, jpg, png, Javascript...
+
+The Meta-currency Network:
+•
+•
+
+an interaction pattern (protocol):
+Meta-Currency Protocol (MCP)
+a set of standard formats for specifying currency types and
+transactions in those currencies
+
+Part II
+Intrinsic Data Integrity
+
+Today’s security model
+Integrity through strength
+Data is safe from
+corruption by
+strong walls
+Power is in the
+hands of wall
+builders
+
+Balances
+Account Holder
+Information
+Transaction
+Histories
+
+Intrinsic Data Integrity
+Security through structure
+Data is safe from
+corruption by being
+embedded in an
+incorruptible context
+Power is in the
+hands of currency
+users
+
+Balance =
+encrypted value +
+signature + link to
+previous signed balance
+Transaction =
+encrypted transaction
++ signature + link to
+previous signed
+transaction
+
+
